@@ -34,3 +34,6 @@ This section describes the API that each graphics library should inherit, implem
 This section describes the API that each game library should inherit, implement and expose.
 
 ***Files:** [IGameLib.hpp](https://github.com/EPITECH-Strasbourg-2021/CPP-Arcade-Spec/blob/master/IGameLib.hpp)*
+
+## Authors
+* EPITECH Strasbourg 2021 - check the committees
